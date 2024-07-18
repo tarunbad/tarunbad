@@ -1,13 +1,21 @@
 ## Hi there 👋
+
 <div align="center">
-  <a href="https://github.com/othneildrew/Best-README-Template">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
+
+[![LinkedIn][linkedin-shield]][linkedin-url]
+
+</div>
+
+
+<div align="center">
+  <a href="">
+    <img src="iT0sWSyR_400x400.jpg" alt="Logo" width="80" height="80">
   </a>
 
   <h3 align="center">Ciao guys! This is Tarun</h3>
 
   <p align="center">
-    An awesome README template to jumpstart your projects!
+    Basically I solve problems
     <br />
     <a href="https://github.com/othneildrew/Best-README-Template"><strong>Explore the docs »</strong></a>
     <br />
@@ -33,3 +41,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
+[linkedin-url]: https://www.linkedin.com/in/tarun-badana-60942923a/

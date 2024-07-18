@@ -17,6 +17,7 @@
   <h3 align="center">Ciao guys! This is Tarun</h3>
 
   <p align="center">
+    I'm a software developer<br>
     Basically I solve problems
     <br />
     <a href="https://github.com/othneildrew/Best-README-Template"><strong>Explore the docs »</strong></a>

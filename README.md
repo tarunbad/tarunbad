@@ -17,7 +17,7 @@
   <h3 align="center">Ciao guys! This is Tarun</h3>
 
   <p align="center">
-    I'm a software developer<br>
+    I'm a Computer Science student<br>
     Basically I solve problems
     <br />
     <a href="https://github.com/othneildrew/Best-README-Template"><strong>Explore the docs »</strong></a>
@@ -30,20 +30,52 @@
     <a href="https://github.com/othneildrew/Best-README-Template/issues/new?labels=enhancement&template=feature-request---.md">Request Feature</a>
   </p>
 </div>
-<!--
-**tarunbad/tarunbad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<hr>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+<h2>About me👨</h2>
+
+
+>- 🔭  I'm a Computer Science Undergrad at Amrita Vishwa Vidyapeetham
+>- 🌱 I’m currently doing my Research Internship in National Institute of Technology at Warangal
+>- 💻 I'm currently working on Flutter projects and Data Analytics projects
+>- 🤔 I’m looking for help with Data Structures and Algorithms 😭
+>- 💬 Ask me about anything, I'd try my best to help;
+>- 📫 How to reach me: tarunbadana22@gmail.com
+>- ⚡ Fun fact: *If it's working, dont touch it😉*
 -->
+<hr>
+
+
+<h2>Tech Stack🛠</h2>
+
+![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)&nbsp;
+![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=FFA518)&nbsp;
+![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)&nbsp;
+![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=C%2B%2B&logoColor=00599C)&nbsp;
+![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)&nbsp;
+![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)&nbsp;
+![HTML](https://img.shields.io/badge/-HTML-333333?style=flat&logo=HTML5)&nbsp;
+![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=563D7C)\
+![MERN Stack](https://img.shields.io/badge/-MERN%20Stack-333333?style=flat&logo=mongodb&logoColor=47A248)&nbsp;
+![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb&logoColor=47A248)&nbsp;
+![Express.js](https://img.shields.io/badge/-Express.js-333333?style=flat&logo=express&logoColor=white)&nbsp;
+![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)&nbsp;
+![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)&nbsp;\
+![UX Design](https://img.shields.io/badge/-UX%20Design-333333?style=flat&logo=adobe-xd&logoColor=FF61F6)&nbsp;
+![MEAN Stack](https://img.shields.io/badge/-MEAN%20Stack-333333?style=flat&logo=mean)&nbsp;
+![Google Cloud](https://img.shields.io/badge/-Google%20Cloud-333333?style=flat&logo=google-cloud&logoColor=4285F4)
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
+![Eclipse](https://img.shields.io/badge/-Eclipse-333333?style=flat&logo=eclipse-ide&logoColor=2C2255)\
+![InDesign](https://img.shields.io/badge/-InDesign-333333?style=flat&logo=adobe-indesign)&nbsp;\
+![Flutter](https://img.shields.io/badge/-Flutter-333333?style=flat&logo=flutter&logoColor=02569B)&nbsp;
+![Android](https://img.shields.io/badge/-Android-333333?style=flat&logo=android&logoColor=3DDC84)&nbsp;
+![iOS](https://img.shields.io/badge/-iOS-333333?style=flat&logo=apple&logoColor=white)&nbsp;
+![Data Science](https://img.shields.io/badge/-Data%20Science-333333?style=flat&logo=databricks&logoColor=E34A86)&nbsp;
+![Machine Learning](https://img.shields.io/badge/-Machine%20Learning-333333?style=flat&logo=tensorflow&logoColor=FF6F00)
+
+
 
 
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555

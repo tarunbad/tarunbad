@@ -91,9 +91,9 @@
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/in/tarun-badana-60942923a/
 [website-shield]: https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=About.me&logoColor=white
-[website-url]: https://tarunbad.github.io/my-portfolio/
+[website-url]: https://tarunbad.netlify.app
 
 [email-shield]: https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white
 [email-url]: mailto:your.tarunbadana22@gmail.com
 [resume-shield]: https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=google-drive&logoColor=white
-[resume-url]: https://drive.google.com/file/d/1AFqzCCKZ66bGf6opOd-F2ZrnP9Wvq-vp/view?usp=share_link
+[resume-url]: https://drive.google.com/file/d/1hN8wdRYTZrsgfYX-OCuOY_LBpVvGdZA3/view?usp=share_link

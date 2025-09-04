@@ -36,10 +36,10 @@
 <h2>About me👨</h2>
 
 
->- 🔭  I'm a Computer Science Undergrad at Amrita Vishwa Vidyapeetham
->- 🌱 I’m currently doing my Research Internship in National Institute of Technology at Warangal
->- 💻 I'm currently working on Flutter projects and Data Analytics projects
->- 🤔 I’m looking for help with Data Structures and Algorithms 😭
+>- 👨🏼‍🎓 I'm currently a Computer Science Graduate Student at State University of New York at Buffalo
+>- 🔭 Did my Undergrad at Amrita Vishwa Vidyapeetham
+>- 🌱 Completed my Research Internship in National Institute of Technology at Warangal
+>- 💻 I'm currently working on AI/ML, Flutter, End to End pipelins and Data Analytics projects
 >- 💬 Ask me about anything, I'd try my best to help;
 >- 📫 How to reach me: tarunbadana22@gmail.com
 >- ⚡ Fun fact: *If it's working, dont touch it😉*

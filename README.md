@@ -69,36 +69,12 @@
 ![Machine Learning](https://img.shields.io/badge/-Machine%20Learning-333333?style=flat&logo=tensorflow&logoColor=FF6F00)
 
 <hr>
-<h2>Github Stats:</h2>
-
-<!-- 📊 FULL DASHBOARD -->
-<div align="center">
-
-  <!-- profile overview - the big one -->
+<p align="center">
   <a href="https://github.com/tarunbad?tab=repositories">
-    <img width="100%" alt="Tarun's profile details"
-         src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tarunbad&theme=tokyonight" />
+    <img width="500" alt="Tarun's github stats"
+         src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=tarunbad&theme=tokyonight" />
   </a>
-
-  <!-- stats + productive time side by side -->
-  <img width="49%" alt="Tarun's github stats"
-       src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=tarunbad&theme=tokyonight" />
-  <img width="49%" alt="When Tarun commits"
-       src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=tarunbad&theme=tokyonight&utcOffset=-5" />
-
-  <!-- languages side by side -->
-  <img width="49%" alt="Repos per language"
-       src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=tarunbad&theme=tokyonight" />
-  <img width="49%" alt="Most commit language"
-       src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=tarunbad&theme=tokyonight" />
-
-  <!-- 🔥 streak -->
-  <img width="70%" alt="Tarun's streak"
-       src="https://streak-stats.demolab.com?user=tarunbad&theme=tokyonight&hide_border=true" />
-
-</div>
-
-
+</p>
 
 
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555

@@ -71,12 +71,32 @@
 <hr>
 <h2>Github Stats:</h2>
 
-<p align="center">
+<!-- 📊 FULL DASHBOARD -->
+<div align="center">
+
+  <!-- profile overview - the big one -->
   <a href="https://github.com/tarunbad?tab=repositories">
-    <img width="500" alt="Tarun's github stats"
-         src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=tarunbad&theme=github_dark" />
+    <img width="100%" alt="Tarun's profile details"
+         src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tarunbad&theme=tokyonight" />
   </a>
-</p>
+
+  <!-- stats + productive time side by side -->
+  <img width="49%" alt="Tarun's github stats"
+       src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=tarunbad&theme=tokyonight" />
+  <img width="49%" alt="When Tarun commits"
+       src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=tarunbad&theme=tokyonight&utcOffset=-5" />
+
+  <!-- languages side by side -->
+  <img width="49%" alt="Repos per language"
+       src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=tarunbad&theme=tokyonight" />
+  <img width="49%" alt="Most commit language"
+       src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=tarunbad&theme=tokyonight" />
+
+  <!-- 🔥 streak -->
+  <img width="70%" alt="Tarun's streak"
+       src="https://streak-stats.demolab.com?user=tarunbad&theme=tokyonight&hide_border=true" />
+
+</div>
 
 
 

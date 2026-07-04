@@ -72,9 +72,7 @@
 <h2>Github Stats:</h2>
 
 <p align="center">
-  <a href="https://github.com/tarunbad?tab=repositories">
-    <img width="500" height="auto" align="left" alt="Tarun's github stats" 
-         src="https://github-readme-stats.vercel.app/api?username=tarunbad&show_icons=true&theme=algolia&count_private=true" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=tarunbad&theme=github_dark" alt="Tarun's github stats" width="500" />
 </p>
 
 

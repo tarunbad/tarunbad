@@ -1,4 +1,14 @@
-## Hi there 👋
+<!-- 🌊 ANIMATED WAVE HEADER -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Tarun%20Badana&fontSize=52&fontColor=fff&animation=twinkling&fontAlignY=32" width="100%"/>
+</div>
+
+<!-- ⌨️ TYPING ANIMATION -->
+<div align="center">
+  <a href="https://tarunbad.netlify.app">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Ciao+guys!+This+is+Tarun+%F0%9F%91%8B;I'm+a+Computer+Science+student;Basically+I+solve+problems+%F0%9F%92%A1" alt="Typing SVG" />
+  </a>
+</div>
 
 <div align="center">
 
@@ -6,27 +16,14 @@
 [![Personal Website][website-shield]][website-url]
 [![Email][email-shield]][email-url]
 [![Resume][resume-shield]][resume-url]
-</div>
 
+<img src="https://komarev.com/ghpvc/?username=tarunbad&style=for-the-badge&color=36BCF7" alt="Profile views"/>
 
-<div align="center">
-  <a href="">
-    <img src="iT0sWSyR_400x400.jpg" alt="Logo" width="80" height="80">
-  </a>
-
-  <h3 align="center">Ciao guys! This is Tarun</h3>
-
-  <p align="center">
-    I'm a Computer Science student<br>
-    Basically I solve problems
-    <br />
-  </p>
 </div>
 
 <hr>
 
 <h2>About me👨</h2>
-
 
 >- 👨🏼‍🎓 I'm currently a Computer Science Graduate Student at State University of New York at Buffalo
 >- 🔭 Did my Undergrad at Amrita Vishwa Vidyapeetham
@@ -35,7 +32,7 @@
 >- 💬 Ask me about anything, I'd try my best to help;
 >- 📫 How to reach me: tarunbadana22@gmail.com
 >- ⚡ Fun fact: *If it's working, dont touch it😉*
--->
+
 <hr>
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
@@ -43,7 +40,7 @@
 <h2>Tech Stack🛠</h2>
 
 ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)&nbsp;
-![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=FFA518)&nbsp;
+![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=openjdk&logoColor=FFA518)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)&nbsp;
 ![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=C%2B%2B&logoColor=00599C)&nbsp;
 ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)&nbsp;
@@ -72,18 +69,30 @@
 <h2>Github Stats:</h2>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=tarunbad&theme=github_dark" alt="Tarun's github stats" width="500" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=tarunbad&theme=github_dark" alt="Tarun's github stats" width="450"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=tarunbad&theme=github_dark&utcOffset=-5" alt="Commit time" width="450"/>
 </p>
 
+<!-- 🏆 TROPHY CABINET -->
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=tarunbad&theme=algolia&no-frame=true&no-bg=true&row=1&column=7" alt="Trophies" width="100%"/>
+</div>
 
+<!-- 🏙️ 3D CONTRIBUTION CITY -->
+<div align="center">
+  <img src="profile-3d-contrib/profile-night-rainbow.svg" alt="3D contribution city" width="100%"/>
+</div>
 
+<!-- 🌊 ANIMATED WAVE FOOTER -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%"/>
+</div>
 
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/in/tarun-badana-60942923a/
 [website-shield]: https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=About.me&logoColor=white
 [website-url]: https://tarunbad.netlify.app
-
 [email-shield]: https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white
-[email-url]: mailto:your.tarunbadana22@gmail.com
+[email-url]: mailto:tarunbadana22@gmail.com
 [resume-shield]: https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=google-drive&logoColor=white
 [resume-url]: https://drive.google.com/file/d/1hN8wdRYTZrsgfYX-OCuOY_LBpVvGdZA3/view?usp=share_link
